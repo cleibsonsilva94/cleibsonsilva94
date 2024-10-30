@@ -48,62 +48,58 @@
 
 ###
 
-<h2 align="left">🎥 Videos & 📄 Texts</h2>
+<h2 align="left">🎥 Videos & 📄 Articles</h2>
 
 <div align="left">
-  <a href="#videos"><button>Videos</button></a>
+  <a href="#videos" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🔗-Videos-blue?style=for-the-badge" alt="Videos">
+  </a>
+  <a href="#articles" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🔗-Articles-blue?style=for-the-badge" alt="Articles">
+  </a>
 </div>
 
 <h3 id="videos" align="left">Videos</h3>
 <ul align="left">
   <li>
     <a href="https://www.youtube.com/watch?v=W0PLUlShmrg&t=242s" target="_blank">
-      <strong>O que são requisitos funcionais? E qual é o papel do QA nesse contexto?</strong>
+      <strong>What are functional requirements? And what is the QA's role in this context?</strong>
     </a>
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=PPFG7jiTw-M" target="_blank">
-      <strong>BDD — O que é?</strong>
+      <strong>BDD — What is it?</strong>
     </a>
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=ZE-YrAV00OQ" target="_blank">
-      <strong>If, else if, else — Estruturas de controle de fluxo!</strong>
+      <strong>If, else if, else — Flow control structures!</strong>
     </a>
   </li>
 </ul>
 
-###
-
-<h2 align="left">💼 Experiência</h2>
-<p align="left">
-  Atuação como QA em vários projetos web da empresa, realizando o monitoramento do funcionamento de sites de grande porte (ex: Liferay.com) através da análise de logs e relatórios diários sobre o estado das páginas, da validação de resultados de testes automáticos e também da realização de testes exploratórios;<br><br>
-
-  - Levantamento e abertura de bugs e inconformidades através da ferramenta Jira;<br>
-  - Comunicação sobre bugs, inconformidades e demais necessidades através do Slack;<br>
-  - Automação de testes funcionais (manutenção e criação) utilizando um framework proprietário baseado em Selenium WebDriver e Java;<br>
-  - Execução de testes manuais, testes de segurança, testes de integração, testes de regressão, entre outros;<br>
-  - Trabalho em equipe com demais membros de QA da equipe, ajudando em outros projetos conforme demanda.
-</p>
-
-###
-
-<h2 align="left">💻 Projetos</h2>
-<p align="left">Aqui estão alguns dos meus projetos mais relevantes:</p>
-
-<div align="left">
-  <a href="https://github.com/cleibsonsilva94/Barbearia" target="_blank">
-    <img src="https://img.shields.io/badge/Barbearia-Controle%20e%20Organização%20de%20Serviços-blue" alt="Barbearia">
-  </a>
-  <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01" target="_blank">
-    <img src="https://img.shields.io/badge/Diary%20Of%20An%20Apprentice-Jornada%20de%20Aprendizado-blue" alt="DiaryOfAnApprentice01">
-  </a>
-  <a href="https://github.com/cleibsonsilva94/CypressTest" target="_blank">
-    <img src="https://img.shields.io/badge/Cypress%20Test-Testes%20E2E%20com%20Cypress-blue" alt="CypressTest">
-  </a>
-  <a href="https://github.com/cleibsonsilva94/Test.js" target="_blank">
-    <img src="https://img.shields.io/badge/Test.js-Testes%20Unit%C3%A1rios%20em%20JavaScript-blue" alt="Test.js">
-  </a>
-</div>
+<h3 id="articles" align="left">Articles</h3>
+<ul align="left">
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Banco%20de%20Dados/Banco%20de%20dados.md" target="_blank">
+      <strong>My Personal "Database"</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Git%20e%20GitHub/10%20Comandos%20git%20muito%20usados.md" target="_blank">
+      <strong>10 Common Git Commands</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/Origem%20do%20termo%20%22BUG%22.md" target="_blank">
+      <strong>Do You Know the Origin of the Term "Bug"?</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Terminal/O%20que%20%C3%A9%20o%20terminal.md" target="_blank">
+      <strong>The "Dreaded" Terminal</strong>
+    </a>
+  </li>
+</ul>
 
 ###
