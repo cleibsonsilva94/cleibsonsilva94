@@ -80,26 +80,78 @@
 
 <h3 id="articles" align="left">Articles</h3>
 <ul align="left">
+  <!-- Banco de Dados -->
   <li>
     <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Banco%20de%20Dados/Banco%20de%20dados.md" target="_blank">
       <strong>My Personal "Database"</strong>
     </a>
   </li>
   <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Banco%20de%20Dados/Comandos%20SQL.md" target="_blank">
+      <strong>SQL Commands</strong>
+    </a>
+  </li>
+
+  <!-- Git e GitHub -->
+  <li>
     <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Git%20e%20GitHub/10%20Comandos%20git%20muito%20usados.md" target="_blank">
       <strong>10 Common Git Commands</strong>
     </a>
   </li>
   <li>
-    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/Origem%20do%20termo%20%22BUG%22.md" target="_blank">
-      <strong>Do You Know the Origin of the Term "Bug"?</strong>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Git%20e%20GitHub/50%20Comandos%20Mais%20usados..md" target="_blank">
+      <strong>50 Git Commands You Must Know</strong>
     </a>
   </li>
   <li>
-    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Terminal/O%20que%20%C3%A9%20o%20terminal.md" target="_blank">
-      <strong>The "Dreaded" Terminal</strong>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Git%20e%20GitHub/Chave%20SSH.md" target="_blank">
+      <strong>SSH Key Setup</strong>
     </a>
   </li>
-</ul>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Git%20e%20GitHub/Como%20instalar.md" target="_blank">
+      <strong>How to Install Git</strong>
+    </a>
+  </li>
 
-###
+  <!-- Jira & Xray -->
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Jira%20x%20Xray/Termos.md" target="_blank">
+      <strong>QA Daily Terms (Jira & Xray)</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Jira%20x%20Xray/Flight%20Levels.md" target="_blank">
+      <strong>Flight Levels</strong>
+    </a>
+  </li>
+
+  <!-- Metodologia Ágil -->
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Metodologia%20%C3%81gi/Quais%20s%C3%A3o%20as%20reuni%C3%B5es%20do%20Scrum.md" target="_blank">
+      <strong>Scrum Meetings Explained</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Metodologia%20%C3%81gi/Planning%20Poker.md" target="_blank">
+      <strong>Planning Poker</strong>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Metodologia%20%C3%81gi/N%C3%ADveis%20Organizacionais.md" target="_blank">
+      <strong>Organizational Levels</strong>
+    </a>
+  </li>
+
+  <!-- QA - Testes -->
+  <li>
+    <a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/tree/main/Qa%20-%20Testes" target="_blank">
+      <strong>📌 QA Universe (Complete Collection)</strong>
+    </a>
+    <ul>
+      <li><a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/%20Import%C3%A2ncia%20dos%20Requisitos%20N%C3%A3o%20Funcionais.md" target="_blank">Importance of Non-Functional Requirements</a></li>
+      <li><a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/7%20Fundamentos%20dos%20Testes%20de%20Software.md" target="_blank">7 Principles of Software Testing</a></li>
+      <li><a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/Est%C3%B3ria%20de%20Usu%C3%A1rio.md" target="_blank">User Story</a></li>
+      <li><a href="https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/blob/main/Qa%20-%20Testes/Gloss%C3%A1rio%20QA.md" target="_blank">QA Glossary</a></li>
+    </ul>
+  </li>
